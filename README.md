@@ -1,4 +1,4 @@
-# mineframeworkPHP
+# MineframeworkPHP
 Mineframework para PHP.
 
 Em route.php você deverá colocar suas rotas, com o controller e a action (método do respectivo controller).
